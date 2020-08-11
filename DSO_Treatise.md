@@ -1014,34 +1014,33 @@ Rather than try to paraphrase Tony Flanders' fantastic write-ups on these topics
 just link you to them.  Both of these articles are absolutely worth the read:
 
 
-*  http://mysite.verizon.net/vze55p46/id18.html
-*  http://mysite.verizon.net/vze55p46/id1.html
+*  https://tonyflanders.wordpress.com/surface-brightness/
+*  https://tonyflanders.wordpress.com/aperture-versus-light-pollution/
 
 
 I'll quote Tony here to emphasize the importance of understanding how brightness works
 at the scope:
 
 
-A great deal of confusion ensues from the fact that amateur astronomers habitually fail to specify
-whether they mean integrated brightness or surface brightness when they say that an object is bright
-or faint. Consider, for instance, M33, the Triangulum Galaxy. At magnitude 5.7, it is fifth in
-integrated brightness of any galaxy in the sky, after our own Milky Way, the two Magellanic Clouds,
-and M31, the Andromeda Galaxy. Nonetheless, M33 is referred to as a faint galaxy, because its light
-is spread out over a huge area -- nearly a square degree -- giving it one of the lowest surface
-brightnesses of any Messier object. On the other hand, the planetary nebula M76 has one of the
-highest surface brightnesses of any nebulous Messier object, but it is often called faint because of
-its low integrated brightness. (For mathematicians, the term integrated brightness refers to the
-integral of the surface brightness over the object's area, which in the case of M76, is tiny.)
-
-To make matters worse, amateur astronomers frequently use the term brightness to mean both
-integrated brightness and surface brightness in the same paragraph, and also often use it to denote
-the subjective impression of brightness, which depends both on surface brightness and on integrated
-brightness. Thus, the galaxy M33 and the globular cluster M13 have almost identical integrated
-brightness, but M13 appears much brighter both to the naked eye and through any optical instrument
-because its light is concentrated in a smaller area, i.e. because it has a higher surface
-brightness. But M13 also appears much brighter than the globular M28, which has almost identical
-surface brightness, because M13 is much bigger, and so has higher integrated brightness.
-
+> A great deal of confusion ensues from the fact that amateur astronomers habitually fail to specify
+> whether they mean integrated brightness or surface brightness when they say that an object is bright
+> or faint. Consider, for instance, M33, the Triangulum Galaxy. At magnitude 5.7, it is fifth in
+> integrated brightness of any galaxy in the sky, after our own Milky Way, the two Magellanic Clouds,
+> and M31, the Andromeda Galaxy. Nonetheless, M33 is referred to as a faint galaxy, because its light
+> is spread out over a huge area -- nearly a square degree -- giving it one of the lowest surface
+> brightnesses of any Messier object. On the other hand, the planetary nebula M76 has one of the
+> highest surface brightnesses of any nebulous Messier object, but it is often called faint because of
+> its low integrated brightness. (For mathematicians, the term integrated brightness refers to the
+> integral of the surface brightness over the object's area, which in the case of M76, is tiny.)
+> 
+> To make matters worse, amateur astronomers frequently use the term brightness to mean both
+> integrated brightness and surface brightness in the same paragraph, and also often use it to denote
+> the subjective impression of brightness, which depends both on surface brightness and on integrated
+> brightness. Thus, the galaxy M33 and the globular cluster M13 have almost identical integrated
+> brightness, but M13 appears much brighter both to the naked eye and through any optical instrument
+> because its light is concentrated in a smaller area, i.e. because it has a higher surface
+> brightness. But M13 also appears much brighter than the globular M28, which has almost identical
+> surface brightness, because M13 is much bigger, and so has higher integrated brightness.
 
 
 ## DSO Catalogs, Star Charts, and Software Tools
