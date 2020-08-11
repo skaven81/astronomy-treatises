@@ -98,7 +98,7 @@ be described mathematically: http://www.rocketmime.com/astronomy/Telescope/Maxim
 Planets (especially Jupiter, Mars, and Saturn) are colorful things to observe.
 As a result, a great planetary telescope should have great color correction.
 
-Reflecting and catadioptric telescopes (Newtonian reflectors, Makustov- and
+Reflecting and catadioptric telescopes (Newtonian reflectors, Maksutov- and
 Schmidt-Cassegrain) focus all wavelengths of light (all colors) to the same
 spot, and thus deliver sharp, true color.
 
@@ -176,7 +176,7 @@ go out that much over time, but the fact remains that there is some adjustment
 required over time to maintain an optimal view.  Finally, SCTs can take longer
 than refractors and Newtonians to cool down, due to the closed, sealed system.
 
-**Makustov-Cassegrain** - These tend to be less popular, except in
+**Maksutov-Cassegrain** - These tend to be less popular, except in
 comparatively small apertures.  They have all the same pros and cons as the
 Schmidt-Cassegrain, with the following exceptions.  First, their central
 obstruction is smaller as a function of the total aperture (thus you get closer
@@ -307,7 +307,7 @@ to have slow focal ratios of f/10 or so, which means you can use longer
 eyepieces (with correspondingly longer eye relief) at maximum magnification.
 You can also use less expensive eyepieces.
 
-I think it's worth a special call-out here to Orion's 180mm Makustov-Cassegrain
+I think it's worth a special call-out here to Orion's 180mm Maksutov-Cassegrain
 scope on a motorized EQ mount.  For the money, it's reportedly a fantastic
 planetary scope that performs on par with 4" apos many times the price.
 
@@ -559,7 +559,7 @@ a cool air conditioned house and move it to a hot Arizona night?  If the optics
 are cooler than the surrounding air, the same problem occurs.  "Cool-down"
 should really be called "acclimation" -- but alas it's not.   In general, more
 glass means more cool down time.  Bigger mirrors need more glass, and more cool
-down time.  Makustov-Cassegrain scopes, with their thick glass corrector, have
+down time.  Maksutov-Cassegrain scopes, with their thick glass corrector, have
 some of the longest cool down times of all.  You can accelerate the cool-down
 process with judicious use of fans; Newtonian telescopes commonly utilize a fan
 blowing on the back of the primary mirror to assist with temperature
