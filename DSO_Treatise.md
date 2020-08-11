@@ -573,7 +573,7 @@ And this is where filters come in.  There are four basic types of filters:
 
 
 So should you buy a filter?  And if so, what kind?  Dave Knisely does a much better job than I could
-describing it, so I'll just link you to his fantastic post: http://www.prairieastronomyclub.org/resources/by-dave-knisely/some-available-light-pollution-and-narrow-band-filters/
+describing it, so I'll just link you to his fantastic post: https://www.prairieastronomyclub.org/useful-filters-for-viewing-deep-sky-objects/
 
 Additionally, keep in mind that all filters are not created equal.  In particular, some cheaper
 filters have lower light transmission, and some even have bandpasses in the wrong place, making them
@@ -1359,7 +1359,7 @@ a link.  So, with that in mind, here's a dump of my bookmarks -- enjoy!
 **Beginner Resources**
 
 * [Starizona&#39;s Telescope Basics](http://starizona.com/acb/basics/observing_theory.aspx)
-* [Light Pollution and Narrow-Band Filters](http://www.prairieastronomyclub.org/filters.htm)
+* [Light Pollution and Narrow-Band Filters](https://www.prairieastronomyclub.org/useful-filters-for-viewing-deep-sky-objects/)
 * [the Budget Astronomer - Home](http://www.budgetastronomer.ca/index.php?page=home)
 * [Telescope Equations](http://www.rocketmime.com/astronomy/Telescope/telescope_eqn.html)
 * [Build a Solar Filter for Your Telescope](http://www.jotabout.com/portuesi/astro/solar_filter.html)
