@@ -170,7 +170,7 @@ to the diameter of the obstruction.  So an 8" SCT with a 3" central obstruction
 would perform like a 5" apochromatic refractor.  At least that's what the math
 says (check out Thierry Legault's website and read his page regarding the
 effects of a central obstruction:
-http://legault.perso.sfr.fr/obstruction.html).  Another downside to SCTs is the
+http://www.astrophoto.fr/obstruction.html).  Another downside to SCTs is the
 fact that they must be collimated.  Granted, the collimation doesn't generally
 go out that much over time, but the fact remains that there is some adjustment
 required over time to maintain an optimal view.  Finally, SCTs can take longer
@@ -319,7 +319,7 @@ the aperture of the primary mirror, subtract the diameter of the secondary
 mirror/obstruction, and the resulting value is (more or less) the "equivalent"
 apo you'd have.  So Orion's 180mm Mak should perform pretty much like a 5" apo
 (but there will surely be a lot of hemming and hawing about this -- before
-starting that, [read this](http://legault.perso.sfr.fr/obstruction.html)).  What's
+starting that, [read this](http://www.astrophoto.fr/obstruction.html)).  What's
 really and truly "best" is probably something none of us can realistically
 afford, like a 10" apochromatic refractor or something.
 
@@ -496,7 +496,7 @@ observing the planet with a ~1mm exit pupil.  But there's still more you can do
 to ensure you're getting the sharpest possible view.  And that's to properly
 collimate your scope.  As demonstrated on Thierry Legualt's website, even minor
 miscollimation can lead to noticeable degradation of the planetary image:
-http://legault.perso.sfr.fr/collim.html.  It's critical to get the collimation
+http://astrophoto.fr/collim.html.  It's critical to get the collimation
 right.
 
 If you have a refractor or a mak-cass -- you're in luck -- there's very likely
