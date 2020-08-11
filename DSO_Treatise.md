@@ -1,5 +1,5 @@
 A Treatise on Optimizing DSO Observation
-===============================
+========================================
 
 ## Preface
 
@@ -75,7 +75,7 @@ Before diving into the details of the best way to observe DSOs, it's important t
 differences in the types of DSOs.  Each type has unique features that introduce different challenges
 when observing them.
 
-## **Double Stars**
+### **Double Stars**
 
 The simplest type of DSO is the humble double (or triple, or more!) star.  The main feature of a
 double star is that to the naked eye, it appears to be a single star, but is revealed to have
@@ -96,7 +96,7 @@ splitting tighter doubles requires a larger aperture telescope.
 Some fine examples of double stars are Beta Cygni (Albireo), Epsilon Lyrae (the Double Double), and
 Alpha Geminorum (Castor).
 
-## **Open Clusters**
+### **Open Clusters**
 
 Open clusters are collections of stars that formed in the same stellar nursery at the same time, and
 move through the galaxy as a group.  The component stars are loosely gravitationally bound to each
@@ -119,7 +119,7 @@ light polluted skies.  At the other end of the spectrum, there are open clusters
 that they can be difficult to pick out from the surrounding stars.  An example of a small, dim
 cluster is M26, just 15' in diameter and magnitude 8.
 
-## **Globular Clusters**
+### **Globular Clusters**
 
 Globular clusters are distinct from open clusters in that they are much more tightly packed, are
 tightly gravitationally bound, and tend to be very, very old.  In fact, most globular clusters
@@ -142,7 +142,7 @@ that.
 Some excellent examples of globular clusters are M13 (Great Hercules Cluster), M22 (one of the
 brightest globs in the sky), and Omega Centauri (the largest and brightest glob in the Milky Way).
 
-## **Emission & Reflection Nebulae**
+### **Emission & Reflection Nebulae**
 
 In between all the billions of stars in our galaxy is an immense amount of gas and dust.  In some
 regions, the gas and dust is clumped together more densely than in other areas.  Often these dense
@@ -170,7 +170,7 @@ Nebula) can be 2 degrees or more in apparent diameter, while other nebulae such 
 are as small as 10 arcminutes.  Since their light is often quite faint and spread over a large area,
 they are very sensitive to the effects of light pollution.
 
-## **Planetary Nebulae**
+### **Planetary Nebulae**
 
 The term "planetary nebula" is a bit of a misnomer.  They are definitely not planets, but when
 William Herschel viewed them through his telescope, they appeared to resemble Uranus, which had
@@ -196,7 +196,7 @@ Some wonderful examples of planetary nebulae are M57 (Ring Nebula), M27 (Dumbbel
 and M76 (Little Dumbbell Nebula).  All three of these planetary nebulae will exhibit easily
 discernable shapes in the eyepiece of a typical amateur instrument.
 
-## **Galaxies**
+### **Galaxies**
 
 When observing deep space objects, you literally cannot get any further into "deep space" than by
 observing galaxies.  While the objects in our Milky Way galaxy are at most about 100,000 light years
@@ -224,7 +224,7 @@ entire Messier catalog, you can get by with a 4" scope, but really you'll have b
 more enjoyable experience with a 6" scope or larger.  Commercially manufactured amateur telescopes
 get as large as 16", and those with really deep pockets can get custom scopes 32" and even larger!
 
-## **Telescope**
+### **Telescope**
 
 So clearly you want a big scope.  But bigger is not always better, especially when it comes to
 factors like portability and ease of use.  There are three basic types of telescopes to consider:
@@ -275,7 +275,7 @@ collimation much like a reflector (but not as often).  They are also more expens
 aperture than a reflector.
 
 
-## **Mount**
+### **Mount**
 
 Of the three major types of telescopes, there are many different ways each can be mounted.  How
 to choose?  There are three different types of mounts: german equatorial, dobsonian, and fork.
@@ -321,7 +321,7 @@ Some smaller refractors you can find mounted on half-forks, though.  But if you 
 aperture and a fast focal ratio, you probably won't find it on a fork.
 
 
-## **Best Buys**
+### **Best Buys**
 
 So what's the "best" telescope for DSO observation?  That's an awfully tough question to answer.
 And so really I won't even try.  What I will say is that when it comes to a "best buy" for a
@@ -588,7 +588,7 @@ You have probably heard about "dark adaptation" and how important it is for obse
 what does it mean to be dark adapted?  What are the physiological changes that happen, and what
 triggers those changes?  What are the effects of dark-adapted (scotopic) vision?
 
-## **Physiology of the Human Eye**
+### **Physiology of the Human Eye**
 
 The human eye operates by focusing light entering through the cornea, through the pupil, and then
 through the lens, onto the retina, which has special light-sensitive cells on it.  There are two
@@ -619,7 +619,7 @@ For more on the optical theory of observation, see this wonderful site: http://w
 Our goal, then, when dark-adapting, is to maximize the amount of rhodopsin built up in our rods,
 and keep it built up, to ensure that we are able to see the faintest amount of light possible.
 
-## **Dark adaptation best practices**
+### **Dark adaptation best practices**
 
 
 *  Be patient.  It takes a half hour or more to become fully dark adapted.  If you head out from a brightly lit house to your backyard, plunk down in front of the scope, and try to observe a faint fuzzy, chances are you're going to be disappointed.  You need to give yourself plenty of time to get properly dark adapted.
@@ -632,7 +632,7 @@ and keep it built up, to ensure that we are able to see the faintest amount of l
 *  Breathe deeply.  I've heard that breathing deeply increases the amount of oxygen in your bloodstream (and thus your retinas), which enhances your rods' sensitivity.  Personally I haven't noticed a difference, but some do, so you might as well give it a try for yourself.
 
 
-## **A note about pupil size**
+### **A note about pupil size**
 
 As mentioned in the section above about choosing an eyepiece, the human pupil can open up as wide as
 ~7mm when fully dark adapted.  But as you get older, your pupil begins to lose some of its
@@ -653,7 +653,7 @@ haze that hangs in the air and turns otherwise spectacular DSOs into boring puff
 background.  But what is light pollution?  And are there other ways that the atmosphere can affect
 your views?
 
-## **Light Pollution**
+### **Light Pollution**
 
 Light pollution comes in two flavors: local and regional.
 
@@ -715,7 +715,7 @@ dark-sky site, there are a few things you can try:
 
 
 
-## **Atmospheric Conditions**
+### **Atmospheric Conditions**
 
 Light pollution is just one of many atmospheric conditions that you deal with when observing.
 There are four properties to track, which the Canadian weather office does a great job
@@ -835,7 +835,7 @@ that you start to see more and more.
 As you work your way up the learning curve, here's a list of things to try to help you refine your
 technique.
 
-## **Make a plan**
+### **Make a plan**
 
 It really helps you to relax when you've got a plan.  Ad-hoc observing sessions tend to be frought
 with frustration.  What's the best thing to observe tonight?  Is there anything that is about to
@@ -853,7 +853,7 @@ For a complete discussion of developing an observing plan, see below.  For now, 
 that having a plan -- even just a scrap of paper with 4 or 5 objects listed -- can make you 
 more relaxed at the scope.  And a more relaxed observer is a better observer!
 
-## **Locating objects**
+### **Locating objects**
 
 Locating objects can be tough.  There's a LOT of sky up there, and in many cases the object
 you're trying to find is REALLY small.  And even worse, the object is often just barely
@@ -904,7 +904,7 @@ There is a pretty well thought out video series about star hopping on YouTube:
 You might also read through the Wikipedia article: http://en.wikipedia.org/wiki/Star_hopping
 
 
-## **Have a seat and take your time**
+### **Have a seat and take your time**
 
 It's tough to over-emphasize the importance of sitting while you observe.  Not only does 
 sitting save your back and neck from strain, the stability you get at the eyepiece equates
@@ -924,7 +924,7 @@ In all cases, you are encouraged to try your hand at building your own if you do
 buying.  Heck, even an overturned 5 gallon bucket or milk crate might be all you need to get into a
 comfortable position at the scope.  Get creative!  But whatever you do, have a seat.
 
-## **Eliminate stray light around your eyes**
+### **Eliminate stray light around your eyes**
 
 While observing, you'll be surprised how much of a difference it makes, even under dark sky, to
 shield your eyes.  While sitting in front of the eyepiece, lower your observing eye over the
@@ -934,7 +934,7 @@ don't want your hands resting on the telescope itself (that would introduce vibr
 just try to "float" over the eyepiece, with your hands on the sides of your face to block the stray
 light.  You might find that the contrast level improves noticeably.
 
-## **Use long gazes and averted vision**
+### **Use long gazes and averted vision**
 
 Once you have your target in sight through the eyepiece, really take some time to study it
 carefully.  Spend at least 60 seconds at the eyepiece soaking in the view.  Carefully scan over the
@@ -950,7 +950,7 @@ By now you should have spent at least 120 uninterrupted seconds at the eyepiece.
 breaths, blink a few times, stretch your neck, and do it all again.  You may see even more the
 second time around!
 
-## **Keep a logbook**
+### **Keep a logbook**
 
 As you observe, it is a great idea to keep a log book.  The log entries don't have to be novels:
 just keep an organized log of your attempted and successful observations.  Often just a couple lines
@@ -979,7 +979,7 @@ Well, you can go back to your log book and find out.  And furthermore, you will 
 the circumstances around that last observation.  Was it washed out and boring due to the light
 pollution?  Perhaps it's worth a revisit if you're heading out to your dark-sky site.
 
-## **Try sketching**
+### **Try sketching**
 
 In addition to keeping a log book, many amateur astronomers sketch the DSOs that they observe.  The
 rigor required to transfer what you see in the eyepiece to a piece of paper demands a great deal
@@ -997,7 +997,7 @@ sketching, you could upgrade to a set of artists' pencils, or possibly even char
 
 Whatever you do, have fun!
 
-## **Understand Integrated brightness, Surface brightness, and Contrast**
+### **Understand Integrated brightness, Surface brightness, and Contrast**
 
 When looking through a list of potential targets, and while at the eyepiece, it is important
 to have a grasp of the optical principles of integrated brightness (the total amount of
@@ -1047,7 +1047,7 @@ surface brightness, because M13 is much bigger, and so has higher integrated bri
 ## DSO Catalogs, Star Charts, and Software Tools
 
 
-## **DSO Catalogs**
+### **DSO Catalogs**
 
 If you are just starting out, you might feel a bit overwhelmed.  There are literally *thousands*
 of objects visible in a typical amateur class telescope.  It takes years of careful and methodical
@@ -1076,13 +1076,11 @@ it's just a place to start.
 
 From the SEDS site:
 
-[quote]
-During the years from 1758 to 1782 Charles Messier, a French astronomer (1730 - 1817), compiled a
-list of approximately 100 diffuse objects that were difficult to distinguish from comets through the
-telescopes of the day. Discovering comets was the way to make a name for yourself in astronomy in
-the 18th century -- Messier's first aim was to catalog the objects that were often mistaken for
-comets.
-[/quote]
+> During the years from 1758 to 1782 Charles Messier, a French astronomer (1730 - 1817), compiled a
+> list of approximately 100 diffuse objects that were difficult to distinguish from comets through the
+> telescopes of the day. Discovering comets was the way to make a name for yourself in astronomy in
+> the 18th century -- Messier's first aim was to catalog the objects that were often mistaken for
+> comets.
 
 One of the great things about the Messier catalog that makes it so popular is that because it was
 compiled so long ago, on (by today's standards) such primitive telescopes, most of the objects in
@@ -1097,11 +1095,9 @@ entire catalog in a single evening -- these events are called [Messier Marathons
 
 From the Wikipedia page:
 
-[quote]
-The Caldwell Catalogue is an astronomical catalog of 109 bright star clusters, nebulae, and galaxies
-for observation by amateur astronomers. The list was compiled by Sir Patrick Caldwell-Moore, better
-known as Patrick Moore, as a complement to the Messier Catalogue.
-[/quote]
+> The Caldwell Catalogue is an astronomical catalog of 109 bright star clusters, nebulae, and galaxies
+> for observation by amateur astronomers. The list was compiled by Sir Patrick Caldwell-Moore, better
+> known as Patrick Moore, as a complement to the Messier Catalogue.
 
 The Caldwell catalog is a great place to start once you have exhausted the Messier catalog for things
 to see.  It, too, is a short list, and can be worked through in a year or two of dedicated observing.
@@ -1110,11 +1106,9 @@ to see.  It, too, is a short list, and can be worked through in a year or two of
 
 From http://en.wikipedia.org/wiki/Catalogue_of_Nebulae:
 
-[quote]
-The Catalogue of Nebulae and Clusters of Stars was first published in 1786 by William Herschel in
-the Philosophical Transactions of the Royal Society of London.[1] In 1789, he added another 1,000
-entries., and finally another 500 in 1802, bring the total to 2,500 entries.
-[/quote]
+> The Catalogue of Nebulae and Clusters of Stars was first published in 1786 by William Herschel in
+> the Philosophical Transactions of the Royal Society of London.[1] In 1789, he added another 1,000
+> entries., and finally another 500 in 1802, bring the total to 2,500 entries.
 
 This is a *massive* catalog.  In the eighteenth century, this was one of the major efforts to
 catalog *everything* visible in the sky under a single catalog.  It is so big, however, that
@@ -1160,7 +1154,7 @@ North American observers.  Some of these lists, such as "Finest NGC objects" and
 are excellent resources when planning an observing session.
 
 
-## **Star Charts**
+### **Star Charts**
 
 As I have mentioned many times in this treatise, using electronic tools (smart phone, tablet,
 laptop) while at the scope is a recipe for frustration, mostly due to the ease with which
@@ -1192,7 +1186,7 @@ professionally bound atlas, you can at least print off a page or two from the Tr
 before each observing session to give yourself a map.
 
 
-## **Software Tools**
+### **Software Tools**
 
 Given that astronomy is a science, it should be no surprise to discover that there is
 a wealth of excellent software available to assist you in various aspects of the
@@ -1232,12 +1226,6 @@ pretty nice software, bridging the gap between a "planetarium" program like Stel
 a "charting" program like Cartes du Ciel.  It's a professional-grade piece of software
 that isn't free, but doese have everything in it you might need to control your high-end
 robotic astrophotography rig.
-
-**Software Forum** - http://www.astronomyforum.net/astronomy-software-forum/
-
-Software is constantly changing and improving.  If you discover some great new software,
-or want to discuss it, visit this forum's software section and post a new thread!
-
 
 ## Planning an Observing Session
 
